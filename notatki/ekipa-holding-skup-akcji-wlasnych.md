@@ -61,3 +61,14 @@ z zysku do podziału, łączne akcje własne ≤ 20 % (a nadwyżka ponad 10 % zb
 umowa podpisana przez RN, publikacja MAR, zgodność z warunkami lock-upu i wycena
 uzasadniająca cenę wobec fiskusa. Najczystsza forma: publiczne zaproszenie do składania
 ofert sprzedaży skierowane do wszystkich akcjonariuszy po tej samej cenie (art. 20 KSH).
+
+## Liczby (kapitał zakładowy potwierdzony ze sprawozdania za 2024)
+- Kapitał zakładowy: 4 080 696,00 zł = 40 806 960 akcji × 0,10 zł (serie A–F, seria F: 36 707 460).
+- Limit 20 % akcji własnych (art. 362 § 2 pkt 2): 816 139,20 zł nominału = 8 161 392 akcji,
+  niezależnie od ceny zakupu. Przy 0,60 zł to ok. 4,90 mln zł kapitału rezerwowego.
+- Próg 10 % (art. 363 § 4, zbycie nadwyżki w 2 lata): 4 080 696 akcji.
+- Transza Friza zwolniona z lock-upu w 2029: 3 445 712 akcji (8,44 %), przy 0,60 zł = ok. 2,07 mln zł.
+- Jeśli spółka ma już ok. 2,05 mln akcji własnych (niezweryfikowane), miejsce w limicie: ok. 6,11 mln akcji.
+- Skup w celu umorzenia (art. 362 § 1 pkt 5): bez limitu 20 %, ale wymaga: podstawy w statucie,
+  uchwały WZ o umorzeniu i obniżeniu kapitału; bez postępowania konwokacyjnego, jeśli wynagrodzenie
+  płacone wyłącznie z zysku do podziału (art. 360 § 2 pkt 2). Akcje umorzone znikają – spółka ich nie odsprzeda.
