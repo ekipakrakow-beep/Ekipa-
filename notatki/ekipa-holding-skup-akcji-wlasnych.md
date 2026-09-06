@@ -79,3 +79,16 @@ ofert sprzedaży skierowane do wszystkich akcjonariuszy po tej samej cenie (art.
 - Transza Friza z 2029 (3 445 712 akcji) mieści się w całości; wiążącym ograniczeniem jest lock-up, nie KSH.
 - Po skupie transzy spółka miałaby ok. 5,49 mln akcji własnych (13,5 %); nadwyżkę ponad 10 %
   (ok. 1,41 mln akcji) musi zbyć w 2 lata (art. 363 § 4). Przy pełnym 20 % nadwyżka = 4,08 mln akcji.
+
+## Źródło finansowania skupu przy stracie w bieżącym roku
+- Liczy się bilans jednostkowy Ekipa Holding S.A. (matki), nie skonsolidowany i nie gotówka.
+- Kwota do podziału (art. 348 § 1): zysk za ostatni rok + niepodzielone zyski z lat ubiegłych
+  + kapitał zapasowy/rezerwowy utworzony z zysku, minus niepokryte straty, akcje własne i
+  odpisy obowiązkowe (8 % zysku na kapitał zapasowy do 1/3 KZ, art. 396 § 1).
+- Kapitał zapasowy z agio (art. 396 § 2) NIE liczy się – nie pochodzi z zysku.
+- Dywidenda ze spółek córek = przychód finansowy matki → podnosi zysk jednostkowy (lub zmniejsza
+  stratę). Uchwała o podziale zysku córki wystarczy do ujęcia przychodu. Dywidenda krajowa
+  zwolniona z CIT przy ≥10 % udziałów przez 2 lata (art. 22 ust. 4 CIT).
+- Pożyczka od córki = gotówka, ale zobowiązanie; nie powiększa kwoty do podziału.
+- Strata bieżącego roku obniża pulę po zatwierdzeniu sprawozdania; zyski zatrzymane z lat
+  ubiegłych pozostają dostępne, jeśli przewyższają stratę.
