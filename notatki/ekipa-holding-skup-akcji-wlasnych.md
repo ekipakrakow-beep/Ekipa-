@@ -92,3 +92,14 @@ ofert sprzedaży skierowane do wszystkich akcjonariuszy po tej samej cenie (art.
 - Pożyczka od córki = gotówka, ale zobowiązanie; nie powiększa kwoty do podziału.
 - Strata bieżącego roku obniża pulę po zatwierdzeniu sprawozdania; zyski zatrzymane z lat
   ubiegłych pozostają dostępne, jeśli przewyższają stratę.
+
+## Zaproszenie do składania ofert sprzedaży – pierwszeństwo
+- Brak zasady "kto pierwszy". Standard rynkowy: przy nadsubskrypcji redukcja proporcjonalna
+  do liczby zgłoszonych akcji. Zasady ustala spółka w treści zaproszenia (art. 20 KSH – równe traktowanie).
+- Ryzyko "zabrania miejsca": realne tylko, gdy kurs spadnie w okolice ceny skupu; przy 40 % dyskonta
+  racjonalny akcjonariusz sprzedaje na rynku.
+- Zabezpieczenia: (a) cena jako % średniego kursu (np. 60 % VWAP z 3 mies.), nie kwota sztywna;
+  (b) pula skupu większa niż transza Friza; (c) alternatywa: umowa bezpośrednia ze spółką na podstawie
+  upoważnienia WZ (art. 362 § 1 pkt 8 nie wymaga zaproszenia dla wszystkich), podpisana przez RN,
+  raportowana MAR – większe ryzyko zarzutu nierównego traktowania, ale cena poniżej rynku działa na
+  korzyść pozostałych akcjonariuszy.
