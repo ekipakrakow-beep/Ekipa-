@@ -72,3 +72,10 @@ ofert sprzedaży skierowane do wszystkich akcjonariuszy po tej samej cenie (art.
 - Skup w celu umorzenia (art. 362 § 1 pkt 5): bez limitu 20 %, ale wymaga: podstawy w statucie,
   uchwały WZ o umorzeniu i obniżeniu kapitału; bez postępowania konwokacyjnego, jeśli wynagrodzenie
   płacone wyłącznie z zysku do podziału (art. 360 § 2 pkt 2). Akcje umorzone znikają – spółka ich nie odsprzeda.
+
+## Stan na dziś (wg informacji Friza: spółka ma ok. 2,05 mln akcji własnych, 5,02 %, kupionych po 0,10 zł)
+- Wolne miejsce w limicie 20 %: 8 161 392 − 2 048 509 = ok. 6 112 883 akcji (ok. 14,98 % kapitału),
+  przy 0,60 zł = ok. 3,67 mln zł kapitału rezerwowego.
+- Transza Friza z 2029 (3 445 712 akcji) mieści się w całości; wiążącym ograniczeniem jest lock-up, nie KSH.
+- Po skupie transzy spółka miałaby ok. 5,49 mln akcji własnych (13,5 %); nadwyżkę ponad 10 %
+  (ok. 1,41 mln akcji) musi zbyć w 2 lata (art. 363 § 4). Przy pełnym 20 % nadwyżka = 4,08 mln akcji.
